@@ -1,2 +1,11 @@
 @import "components/top-nav/top-nav.component";
 @import "components/cheat-code/cheat-code.component";
+@import "components/cheat-code/left-nav/left-nav.component";
+@import "components/cheat-code/code-content/code-content.component";
+
+.row-content {
+  background-color: grey;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
